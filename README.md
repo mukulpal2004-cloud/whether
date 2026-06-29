@@ -247,19 +247,6 @@ Statistics
 ---
 
 # 🤝 Connect
-
-<div align="center">
-
-## 👨‍💻 Mukul Kumar
-
-**Aspiring Data Analyst | Python Developer**
-
-⭐ **If you found this project helpful, please give it a Star!**
-
-</div>
-
----
-
 <div align="center">
 
 ### ❤️ Thanks for Visiting
